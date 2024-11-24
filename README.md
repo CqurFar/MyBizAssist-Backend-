@@ -35,6 +35,6 @@ In this stage, we aimed to identify underlying themes within the text data using
 ---
 
 ### **Technologies (models)**  
-- **spaCy**: nlp model used for advanced text processing and analysis  
+- **nlp**: used for advanced text processing and analysis  
 - **CatBoost**: employed for classification tasks
 - **LDA**: used for uncovering latent topics within text data
