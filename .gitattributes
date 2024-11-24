@@ -1,2 +1,4 @@
 *.py linguist-language=Python
 *.bat linguist-language=Batch
+*.html linguist-generated=true
+*.html linguist-detectable=false
