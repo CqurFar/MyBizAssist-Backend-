@@ -1,4 +1,4 @@
-# **MyBizAssist-Backend**  
+# **MyBizAssist-Backend-**  
 <p style="text-align: center;">This repository contains the backend part of the project. It is currently in the alpha version, so functionality and performance may change significantly as development progresses.</p>
 
 ### **Tasks Overview**
